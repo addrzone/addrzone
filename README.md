@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🛰️ IPrep - IP Intelligence for Developers
 
-<!--
-**addrzone/addrzone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ultra-fast IP risk scoring and classification API powered by authoritative data 
+sources**
 
-Here are some ideas to get you started:
+✨ **Key Features:**
+- 🚀 **<150ms response times** - Optimized for high-performance applications
+- 🎯 **99%+ accuracy** - PeeringDB, BGP routing tables, and threat intelligence feeds
+- 🛡️ **Comprehensive detection** - Datacenters, VPNs, proxies, Tor, malicious IPs
+- 📊 **Smart risk scoring** - Context-aware threat assessment (0-10 scale)
+- 🔧 **Developer-friendly** - Simple REST API with extensive documentation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Perfect for:** Fraud prevention • Security protections • Content delivery • Network
+analysis
+
+💎 **Freemium model:** 5K free queries/month • Paid plans from €9/month
