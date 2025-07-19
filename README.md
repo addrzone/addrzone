@@ -13,4 +13,4 @@ sources** - [**addr.zone**](https://addr.zone)
 🎯 **Perfect for:** Fraud prevention • Security protections • Content delivery • Network
 analysis
 
-💎 **Freemium model:** 5K free queries/month ([docs](https://addr.zone/docs) • Paid plans from €9/month
+💎 **Freemium model:** 5K free queries/month ([docs](https://addr.zone/docs)) • Paid plans from €9/month
