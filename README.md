@@ -1,7 +1,7 @@
 # 🛰️ addr.zone - IP Intelligence for Developers
 
 **Ultra-fast IP risk scoring and classification API powered by authoritative data 
-sources** https://addr.zone
+sources** - [**addr.zone**](https://addr.zone)
 
 ✨ **Key Features:**
 - 🚀 **<150ms response times** - Optimized for high-performance applications
@@ -13,4 +13,4 @@ sources** https://addr.zone
 🎯 **Perfect for:** Fraud prevention • Security protections • Content delivery • Network
 analysis
 
-💎 **Freemium model:** 5K free queries/month • Paid plans from €9/month
+💎 **Freemium model:** 5K free queries/month ([docs](https://addr.zone/docs) • Paid plans from €9/month
