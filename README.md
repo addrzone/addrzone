@@ -1,7 +1,7 @@
-# 🛰️ IPrep - IP Intelligence for Developers
+# 🛰️ addr.zone - IP Intelligence for Developers
 
 **Ultra-fast IP risk scoring and classification API powered by authoritative data 
-sources**
+sources** https://addr.zone
 
 ✨ **Key Features:**
 - 🚀 **<150ms response times** - Optimized for high-performance applications
